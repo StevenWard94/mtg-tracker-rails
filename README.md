@@ -1,24 +1,9 @@
-# README
+# Rails Application for the MTG Tracker Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* This application will be used to host, update, and query the database created for MTG Tracker
 
-Things you may want to cover:
+* Ruby v2.6.3
+* Rails v6.0.1
+* Bundler v2.0.2
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Uses a MySQL Database
